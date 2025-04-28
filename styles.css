@@ -58,6 +58,7 @@
     .navbar {
       flex-wrap: wrap;
     }
+  }
     body {
       font-family: Arial, sans-serif;
       margin: 0;
@@ -101,4 +102,4 @@
       color: green;
       font-size: 0.9rem;
   }
-  }
+  
